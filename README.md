@@ -2,7 +2,7 @@
 
 > Data analyst skilled in Excel, SQL, Python and Tableau. I turn messy data into clear answers that help people make decisions.
 
-📍 Accra,Ghana · 📧 marvelousmakafui76@gmail.com · 🔗 [LinkedIn URL] · 💻 https://github.com/Maka-Velli
+📍 Accra,Ghana · 📧 marvelousmakafui76@gmail.com · 🔗 https://www.linkedin.com/in/marvelous-makafui-949678445?utm_source=share_via&utm_content=profile&utm_medium=member_android · 💻 https://github.com/Maka-Velli
 
 ---
 
