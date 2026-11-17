@@ -12,17 +12,15 @@ I recently completed a data analytics programme covering Excel, SQL, Python and 
 
 ---
 
- Skills
+# Skills
 
 | Area | Tools and techniques |
 |---|---|
 | **Spreadsheets** | Excel: PivotTables, XLOOKUP/VLOOKUP, conditional formatting, charts, data validation |
 | **Databases** | SQL: joins, aggregations, CTEs, subqueries, window functions |
-| **Programming** | Python: pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook |
+| **Programming** | Python: pandas, NumPy, Matplotlib, Jupyter Notebook |
 | **Visualisation** | Tableau: calculated fields, filters, parameters, dashboards |
 | **Other** | Data cleaning, exploratory analysis, storytelling with data, Git/GitHub |
-
-*(Edit this table so it only lists what you can confidently talk about in an interview.)*
 
 ---
 
