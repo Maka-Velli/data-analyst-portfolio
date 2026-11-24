@@ -1,0 +1,16 @@
+rank,country,co2,growth_abs,growth_pct,coal_share,co2_per_gdp_2022,priority_score,segment
+1,China,12303.1,2283.6,22.8,71.1,0.4,95.8,Growth engine
+2,India,3049.4,1052.7,52.7,66.6,0.3,87.8,Growth engine
+3,Russia,1734.4,95.0,5.8,22.0,0.4,85.0,Growth engine
+4,Iran,821.1,213.7,35.2,1.0,0.5,82.5,Growth engine
+5,Indonesia,742.9,251.5,51.2,53.7,0.2,78.0,Growth engine
+6,Vietnam,330.6,176.6,114.8,58.1,0.4,75.8,Growth engine
+7,Saudi Arabia,613.2,95.5,18.5,0.1,0.3,74.5,Growth engine
+8,Kazakhstan,286.0,32.5,12.8,57.1,0.5,67.5,Growth engine
+9,South Africa,442.8,-16.0,-3.5,81.9,0.6,66.8,Managed decline
+10,Turkey,445.1,94.9,27.1,36.6,0.2,65.2,Growth engine
+11,Malaysia,288.2,46.3,19.1,30.9,0.3,62.8,Growth engine
+12,South Korea,588.7,-45.9,-7.2,44.8,0.3,58.2,Managed decline
+13,Canada,541.1,-27.7,-4.9,6.9,0.3,56.5,Managed decline
+14,Australia,385.9,-12.0,-3.0,36.5,0.3,56.2,Managed decline
+15,Iraq,247.5,89.5,56.7,0.0,0.4,55.5,Growth engine
